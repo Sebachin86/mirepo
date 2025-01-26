@@ -1,8 +1,8 @@
-Mango
-Piña
-Naranja
 
 
-Papaya
 Mandarina
+Mango
 Manzana
+Naranja
+Papaya
+Piña
